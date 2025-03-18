@@ -1,6 +1,6 @@
-Hi, I'm Devendra Pratap Singh 👋
+<h1><style color🔴>Hi, I'm Devendra Pratap Singh 👋</h1>
 Welcome to my GitHub profile! I’m a B.Tech student currently in my 2nd year at ABES Engineering College, passionate about Web Development and Machine Learning. I love learning new technologies and building projects.
-🚀 About Me
+<h1>🚀 About Me</h1>
 <ul>
   <li>🌱 I’m currently learning Web Development (HTML, CSS, JavaScript, Node.js, firebase) and Machine Learning (Python, scikit-learn, numpy).</li>
   <li>🎓 I am pursuing my B.Tech degree in CSE(DS).</li>
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a B.Tech student currently in my 2nd year at
   <li>👨‍💻 I love collaborating with others.</li>
   <li>🌍 I'm excited to work on real-world applications and continue to expand my skill set.</li>
 </ul>
-🛠️ Skills
+<h1>🛠️ Skills<h1>
  <h2>Web Development</h2>
 <ul>
   <li>HTML, CSS, JavaScript</li>
@@ -28,16 +28,16 @@ Welcome to my GitHub profile! I’m a B.Tech student currently in my 2nd year at
   <li>Git & GitHub</li>
   <li>Visual Studio Code, Jupyter Notebooks</li>
 </ul>
-📚 Education
+<h1>📚 Education</h1>
 <h6>B.Tech in Computer Science and Engineering with data science
 ABES Engineering College (2023 - Present)</h6>
 
-🌱 Current Learning
+<h1>🌱 Current Learning</h1>
 <ul>
   <li>Currently diving deeper into Machine Learning</li>
   <li>Exploring AI and Natural Language Processing (NLP).</li>
 </ul>
-💬 Let's Connect!
+<h1>💬 Let's Connect!</h1>
 <ul>
   <li>Feel free to reach out to me on LinkedIn.</li>
   <li>If you have any questions or would like to collaborate, don’t hesitate to get in touch!</li>
