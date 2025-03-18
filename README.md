@@ -1,3 +1,11 @@
+<html>
+  <head>
+    <style>
+      body{ background color🟦;
+        }
+    </style>
+  </head>
+<body>
 <h1>🔴 Hi, I'm Devendra Pratap Singh 👋</h1>
 Welcome to my GitHub profile! I’m a B.Tech student currently in my 2nd year at ABES Engineering College, passionate about Web Development and Machine Learning. I love learning new technologies and building projects.
 <h1>🚀 About Me</h1>
@@ -42,6 +50,8 @@ ABES Engineering College (2023 - Present)</h6>
   <li>Feel free to reach out to me on LinkedIn.</li>
   <li>If you have any questions or would like to collaborate, don’t hesitate to get in touch!</li>
 </ul>
+</body>
+</html>
 
 
 
