@@ -1,4 +1,4 @@
-🔴 Hi, I'm Devendra Pratap Singh 👋</h1>
+<h1>🔴 Hi, I'm Devendra Pratap Singh 👋</h1>
 Welcome to my GitHub profile! I’m a B.Tech student currently in my 2nd year at ABES Engineering College, passionate about Web Development and Machine Learning. I love learning new technologies and building projects.
 <h1>🚀 About Me</h1>
 <ul>
