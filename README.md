@@ -1,23 +1,29 @@
-<!-- ---------------- HEADER BANNER ---------------- -->
+<!-- ---------------- HEADER ---------------- -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b2b,100:ff416c&height=200&section=header&text=Devendra%20Pratap%20Singh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Devendra%20Pratap%20Singh&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ---------------- TYPING ANIMATION ---------------- -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF416C&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+Backend+Developer;DSA+Learner;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+Backend+Developer;DSA+Learner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devendra529&label=Profile%20Views&color=ff416c&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=devendra529&label=Profile%20Views&color=00f2fe&style=for-the-badge" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
 - 🎓 B.Tech CSE (Data Science) @ **ABES Engineering College**  
 - 💻 Full Stack Developer (**React.js, Next.js, Spring Boot, PostgreSQL**)  
-- 🔗 Experience in **Backend API development & integration**  
+- ☁️ Familiar with **Cloud Services (AWS S3, Lambda, Vercel)**  
+- 🔗 Skilled in **Backend API Development & Integration**  
 - 🤖 Exploring **AI integration via APIs**  
 - 📈 Improving **Data Structures & Algorithms (DSA)**  
 
@@ -25,74 +31,88 @@
 
 # ⚡ Tech Stack
 
-## 🚀 Languages
+### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🧠 Backend & API Integration
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-
-## 🗄️ Databases & Tools
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & Deployment
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🧠 Backend & API
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devendra529&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendra529&layout=compact&theme=radical" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+## 🥗 Diet Prediction System
+- 🔗 Integrated AI via **external API calls**
+- 📊 Designed scalable request-response architecture  
+
+---
+
+## 🍽️ Canteen Management System
+- 🛒 Token-based food ordering system  
+- 🔄 Real-time updates using Firebase  
+- ⚡ Improved operational efficiency  
+
+---
+
+## 🏃 Health Tracking System
+- 📊 Activity tracking dashboards  
+- 🔄 Real-time Firebase integration  
+- ⚡ Optimized performance  
+
+---
+
+## 📝 Health Blog Platform
+- 🔐 Authentication + comment system  
+- 💬 Interactive blogging features  
+- 🎨 Responsive UI  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devendra529&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendra529&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-# 🐍 Contribution Graph (Animated)
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devendra529/devendra529/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devendra529&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-# 🚀 Projects
-
-### 🥗 Diet Prediction System
-- Backend integrated using **Spring Boot REST APIs**
-- AI functionality handled via **external API calls**
-- Built scalable request-response architecture  
-
-### 🍽️ Canteen Management System
-- Token-based food ordering system  
-- Firebase for real-time updates  
-- Improved ordering efficiency  
-
-### 🏃 Health Tracking System
-- Fitness tracking dashboards  
-- Optimized real-time data handling  
-
-### 📝 Health Blog Platform
-- Blog system with authentication & comments  
-- Built using Next.js  
 
 ---
 
 # 📌 Current Focus
 - 🔥 Data Structures & Algorithms (DSA)
-- 🚀 Backend Development (Spring Boot)
-- 💡 Building scalable real-world applications  
+- ☁️ Cloud & Backend Development  
+- 🚀 Building scalable applications  
 
 ---
 
@@ -100,18 +120,18 @@
 
 <p align="center">
   <a href="mailto:singhdevendrapratap529@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/devendra-pratap-singh-1295b9296">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F2FE?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/devendra529">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-00F2FE?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  ✨ Building scalable systems with modern technologies 🚀
 </p>
