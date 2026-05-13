@@ -121,7 +121,7 @@
 🔹 Deployed using Netlify Serverless Functions  
 
 ### ⚙️ Tech Stack
-`Next.js` `Tailwind CSS` `API Routes` `TypeScript` `Netlify`
+`Next.js` `Tailwind CSS` `API Routes` `TypeScript` `Vercel`
 
 🔗 **Live Demo:** https://school-management-system-two-lovat.vercel.app/
 
