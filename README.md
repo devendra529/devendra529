@@ -1,13 +1,12 @@
 <!-- ---------------- HEADER ---------------- -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Devendra%20Pratap%20Singh&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Devendra%20Pratap%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20|%20DSA%20Learner&descAlignY=55&descSize=20" />
 </p>
 
 <!-- ---------------- TYPING ANIMATION ---------------- -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+Backend+Developer;DSA+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Strong+in+Java+%26+JavaScript;React.js+%7C+Next.js+%7C+Node.js;DSA+Learner" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devendra529&label=Profile%20Views&color=00f2fe&style=for-the-badge" />
 </p>
@@ -21,10 +20,12 @@
 </p>
 
 - 🎓 B.Tech CSE (Data Science) @ **ABES Engineering College**  
-- 💻 Full Stack Developer (**React.js, Next.js, Spring Boot, PostgreSQL**)  
-- ☁️ Familiar with **Cloud Services (AWS S3, Lambda, Vercel)**  
-- 🔗 Skilled in **Backend API Development & Integration**  
-- 🤖 Exploring **AI integration via APIs**  
+- 💻 Full Stack MERN Developer  
+- ⚡ Strong knowledge of **Core Java & JavaScript**  
+- 🌐 Skilled in **React.js, Next.js, Node.js, Express.js**  
+- 🗄️ Experienced with **MongoDB & Mongoose**  
+- 🔗 Backend API Development & Integration  
+- ☁️ Deployment experience on **Vercel & Render**  
 - 📈 Improving **Data Structures & Algorithms (DSA)**  
 
 ---
@@ -34,28 +35,40 @@
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web Development
+---
+
+### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### ☁️ Cloud & Deployment
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🧠 Backend & API
+### 🛠️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
-### 🛠️ Tools
+---
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+---
+
+### ☁️ Deployment & Cloud
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -65,30 +78,30 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-## 🥗 Diet Prediction System
-- 🔗 Integrated AI via **external API calls**
-- 📊 Designed scalable request-response architecture  
-
----
-
 ## 🍽️ Canteen Management System
 - 🛒 Token-based food ordering system  
-- 🔄 Real-time updates using Firebase  
+- 🔄 Real-time updates integration  
 - ⚡ Improved operational efficiency  
 
 ---
 
 ## 🏃 Health Tracking System
 - 📊 Activity tracking dashboards  
-- 🔄 Real-time Firebase integration  
+- 🔄 Real-time data management  
 - ⚡ Optimized performance  
 
 ---
 
+## 🥗 Diet Prediction System
+- 🤖 AI integration using external APIs  
+- 📊 Scalable request-response architecture  
+
+---
+
 ## 📝 Health Blog Platform
-- 🔐 Authentication + comment system  
+- 🔐 Authentication & Authorization System  
 - 💬 Interactive blogging features  
-- 🎨 Responsive UI  
+- 🎨 Responsive modern UI  
 
 ---
 
@@ -100,8 +113,14 @@
 </p>
 
 ---
-## 🔥 Streak  
-![streak](https://streak-stats.demolab.com/?user=devendra529&theme=radical)
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=devendra529&theme=radical" />
+</p>
+
+---
 
 # 📈 Activity Graph
 
@@ -112,9 +131,11 @@
 ---
 
 # 📌 Current Focus
-- 🔥 Data Structures & Algorithms (DSA)
-- ☁️ Cloud & Backend Development  
-- 🚀 Building scalable applications  
+
+- 🔥 Mastering MERN Stack Development  
+- ⚡ Strengthening Core Java & Backend Skills  
+- ☁️ Deployment & Scalable Web Applications  
+- 📈 Improving Data Structures & Algorithms  
 
 ---
 
@@ -124,9 +145,11 @@
   <a href="mailto:singhdevendrapratap529@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://linkedin.com/in/devendra-pratap-singh-1295b9296">
     <img src="https://img.shields.io/badge/LinkedIn-00F2FE?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/devendra529">
     <img src="https://img.shields.io/badge/GitHub-00F2FE?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -135,5 +158,5 @@
 ---
 
 <p align="center">
-  ✨ Building scalable systems with modern technologies 🚀
+  ✨ Building scalable full stack applications with MERN & modern technologies 🚀
 </p>
