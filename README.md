@@ -71,39 +71,90 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 # 🚀 Featured Projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-## 🍽️ Canteen Management System
-- 🛒 Token-based food ordering system  
-- 🔄 Real-time updates integration  
-- ⚡ Improved operational efficiency  
-
 ---
 
-## 🏃 Health Tracking System
-- 📊 Activity tracking dashboards  
-- 🔄 Real-time data management  
-- ⚡ Optimized performance  
+## 🏥 Scanly — Portable Digital Health Records System
+
+🔹 Secure QR-powered digital health records platform  
+🔹 Role-based access for Admin, Doctor & Patient  
+🔹 JWT Authentication & File Upload System  
+🔹 QR Code generation and scanning functionality  
+🔹 Responsive UI with Dark/Light Mode + PWA support  
+🔹 Built using Next.js 14, Express.js, Tailwind CSS & Framer Motion  
+
+### ⚙️ Tech Stack
+`Next.js` `Node.js` `Express.js` `Tailwind CSS` `JWT` `bcrypt` `QR Code`
+
+🔗 **Live Demo:** https://scanly-rho.vercel.app/
 
 ---
 
 ## 🥗 Diet Prediction System
-- 🤖 AI integration using external APIs  
-- 📊 Scalable request-response architecture  
+
+🔹 AI-based diet recommendation web application  
+🔹 Login & Signup system using file-based authentication  
+🔹 Personalized diet suggestions based on user input  
+🔹 Chat assistant for diet-related queries  
+🔹 Responsive modern UI using Next.js & Tailwind CSS  
+🔹 Deployed on Vercel with scalable architecture  
+
+### ⚙️ Tech Stack
+`Next.js` `Node.js` `Tailwind CSS` `JavaScript` `Vercel`
+
+🔗 **Live Demo:** https://diet-pridiction.vercel.app/
 
 ---
 
-## 📝 Health Blog Platform
-- 🔐 Authentication & Authorization System  
-- 💬 Interactive blogging features  
-- 🎨 Responsive modern UI  
+## 📘 School Management & Portfolio Website
+
+🔹 Full Stack School ERP & Portfolio Website  
+🔹 Role-based login system (Admin, Teacher, Student)  
+🔹 Attendance, Homework & Result Management  
+🔹 Dynamic Gallery using TXT file storage  
+🔹 Lightweight file-based backend architecture  
+🔹 Deployed using Netlify Serverless Functions  
+
+### ⚙️ Tech Stack
+`Next.js` `Tailwind CSS` `API Routes` `TypeScript` `Netlify`
+
+🔗 **Live Demo:** https://school-management-system-two-lovat.vercel.app/
 
 ---
+
+## 🍽️ Canteen Management System
+
+🔹 Token-based digital food ordering platform  
+🔹 Real-time UI updates for better user experience  
+🔹 Local storage-based order management  
+🔹 Responsive design for mobile & desktop users  
+🔹 Improved canteen workflow & ordering efficiency  
+
+### ⚙️ Tech Stack
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+🔗 **Live Demo:** https://abescafe.netlify.app/
+
+---
+
+## 🛒 ShopKart — Full Stack eCommerce Platform
+
+🔹 Full Stack MERN eCommerce application  
+🔹 JWT-based Authentication & Authorization  
+🔹 Product browsing, cart & order management  
+🔹 API Testing using Postman & REST Assured  
+🔹 UI Automation Testing using Selenium WebDriver  
+🔹 Focused on real-world SDET & backend practices  
+
+### ⚙️ Tech Stack
+`React.js` `Node.js` `Express.js` `MongoDB` `Postman` `Selenium` `Java`
+
+🔗 **GitHub Repository:** https://github.com/devendra529
 
 # 📊 GitHub Analytics
 
